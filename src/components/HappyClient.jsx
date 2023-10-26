@@ -4,7 +4,7 @@ import ClientGroup from "../assets/ClientGroup.png"
 
 const HappyClient=()=>{
     return(
-        <div className="ml-32 mb-28 mr-28">
+        <div className="ml-32 mb-28 mr-28 mt-32">
             <div className="place-self-center  flex-col mb-28">
                 <p className="text-black text-center text-[40px] font-normal leading-normal">What our happy client say</p>
                 <p className="text-gray-600 text-center text-base font-normal leading-[28.8px]">Several selected clients, who already believe in our service.</p>
