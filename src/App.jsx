@@ -8,6 +8,7 @@ import Copyright from './Copyright'
 import Footer from './Footer'
 import Newsletter from './components/Newsletter'
 import HappyClient from './components/HappyClient'
+import Great from './components/Great'
 
 
 function App() {
@@ -19,6 +20,7 @@ function App() {
     <Companies />
     <Services />
     {/* <Newsletter /> */}
+    <Great />
     <HappyClient />
     <Footer />
     <Copyright />

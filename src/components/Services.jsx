@@ -13,8 +13,8 @@ const Services =() => {
         <div className="flex flex-row mt-28 ml-32 gap-10 relative justify-between">
             <div className="flex flex-col w-[358px] h-[98px] place-self-center relative">
                 <img src={rectangle2} className="w-[178px] h-[178px] absolute -top-14 -left-12 overflow-hidden z-10" />
-                <p className="text-black text-[40px] font-normal leading-normal block relative z-10">How can we help your Business ?</p>
-                <p className="w-96 text-gray-600 text-base font-normal leading-7 z-10">We build readymade websites, mobile applications, and elaborate online business services.</p>
+                <p className="text-black text-[40px] font-normal leading-normal block relative z-20">How can we help your Business ?</p>
+                <p className="w-96 text-gray-600 text-base font-normal leading-7 z-20">We build readymade websites, mobile applications, and elaborate online business services.</p>
             </div>
                 <img src={rectangle3} className="w-[1047px] h-[619px]  absolute right-20 top-32 overflow-hidden z-10"/>
                 <div className="flex flex-col  gap-y-8 z-20 absolute right-[605px] top-12">
