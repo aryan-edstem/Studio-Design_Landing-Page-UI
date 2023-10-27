@@ -21,7 +21,7 @@ function App() {
     <Services />
     <Great />
     <HappyClient />
-    <Newsletter />
+    {/* <Newsletter /> */}
     <Footer />
     <Copyright />
     </>
