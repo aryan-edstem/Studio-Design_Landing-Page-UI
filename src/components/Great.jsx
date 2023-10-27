@@ -5,7 +5,7 @@ import Rectangle4 from '../assets/Rectangle4.svg'
 
 const Great= () => {
     return(
-        <div className="flex flex-row ml-32 mt-36 justify-center mr-32">
+        <div className="flex flex-row ml-32 mt-36 justify-center mr-32 shadow-[10_20px_50px_0px_rgba(0,0,0,0.15)]">
             <img src={Group} className="w-[550px] h-[372px] rounded-[32px] shadow-[10_20px_50px_0px_rgba(0,0,0,0.15)] static"/>
             <button><img src={PlayButton} className="relative -left-80 top-0"/></button>
             <div className="flex-col justify-center self-center relative "> 
