@@ -19,9 +19,9 @@ function App() {
     <Intro />
     <Companies />
     <Services />
-    {/* <Newsletter /> */}
     <Great />
     <HappyClient />
+    <Newsletter />
     <Footer />
     <Copyright />
     </>
