@@ -1,7 +1,7 @@
 import React from "react";
-import facebook from "./assets/facebook.svg"
-import linkedin from "./assets/linkedin.svg"
-import twitter from "./assets/twitter.svg"
+import facebook from "../assets/facebook.svg"
+import linkedin from "../assets/linkedin.svg"
+import twitter from "../assets/twitter.svg"
 
 const Footer = () => {
     return(

@@ -7,6 +7,7 @@ import EmptyWallet from '../assets/empty-wallet.svg';
 import rectangle2 from '../assets/Rectangle2.svg'
 import rectangle3 from '../assets/Rectangle3.svg'
 import ellipse2 from '../assets/Ellipse2.svg'
+import dot from '../assets/Dot.svg'
 
 const Services =() => {
     return(
@@ -14,7 +15,9 @@ const Services =() => {
             <div className="flex flex-col w-[358px] h-[98px] place-self-center relative">
                 <img src={rectangle2} className="w-[178px] h-[178px] absolute -top-14 -left-12 overflow-hidden z-10" />
                 <p className="text-black text-[40px] font-normal leading-normal block relative z-20">How can we help your Business ?</p>
-                <p className="w-96 text-gray-600 text-base font-normal leading-7 z-20">We build readymade websites, mobile applications, and elaborate online business services.</p>
+                <p className="w-96 text-gray-600 text-base font-normal leading-7 z-20 relative">We build readymade websites, mobile applications, and elaborate online business services.</p>
+                <img src={dot} className="w-48 absolute -bottom-80 -left-9 z-0"/>
+                <img src={dot} className="w-48 absolute -bottom-80  left-40 z-0"/>     
             </div>
                 <img src={rectangle3} className="w-[1047px] h-[619px]  absolute right-20 top-32 overflow-hidden z-10"/>
                 <div className="flex flex-col  gap-y-8 z-20 absolute right-[605px] top-12">
