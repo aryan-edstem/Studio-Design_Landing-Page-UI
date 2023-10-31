@@ -12,8 +12,8 @@ const Great= () => {
             <img src={Ellipse5} className="relative -left-40 -bottom-44 z-0"/>
             <div className="flex-col justify-center self-center relative "> 
                 <img src={Rectangle4} className="w-[178px] h-[178px] absolute -top-.5 -left-10 overflow-hidden z-10"/>
-                <p className="w-[468px] text-black text-[40px] font-normal leading-normal block relative z-10">Great Digital Product Agency since 2016 </p>
-                <p className="w-[532px] text-gray-600 text-base font-normal leading-7 mt-10 block relative z-10">Our Business Plan is a written document describing a company's core business activites, Objectives, and how it plans to achieve its goals. Our goal is to provide our client high quality Product with modern idea accordingly their budgets and according thir reuirements.</p>
+                <p className="w-[468px] text-black text-[40px] font-normal font-averta leading-normal block relative z-10">Great Digital Product Agency since 2016 </p>
+                <p className="w-[532px] text-gray-600 text-base font-normal font-averta leading-7 mt-10 block relative z-10">Our Business Plan is a written document describing a company's core business activites, Objectives, and how it plans to achieve its goals. Our goal is to provide our client high quality Product with modern idea accordingly their budgets and according thir reuirements.</p>
             </div>
         </div>
     )

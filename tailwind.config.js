@@ -2,7 +2,11 @@
 export default {
   content: ['./src/**/*.{js,ts,jsx,tsx}'],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        'averta': ['Averta Demo PE Cutted Demo', 'sans'],
+      },
+    },
   },
   plugins: [],
 }

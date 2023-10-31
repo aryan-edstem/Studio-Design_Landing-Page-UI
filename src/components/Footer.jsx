@@ -5,7 +5,7 @@ import twitter from "../assets/twitter.svg"
 
 const Footer = () => {
     return(
-        <div className=" flex flex-row justify-between mr-32 ml-32 mt-32">
+        <div className=" flex flex-row justify-between font-averta mr-32 ml-32 mt-32">
             <div className="flex flex-col">
                 <p className="mb-7 text-black text-2xl font-normal leading-normal">A+ Studio</p>
                 <p className="w-[270px] w-80 text-gray-600 text-base font-normal leading-7">Leading digital agency with solid design and development expertise. We build readymade websites, mobile applications, and elaborate online business services.</p>

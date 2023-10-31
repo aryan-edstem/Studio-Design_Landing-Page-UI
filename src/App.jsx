@@ -1,5 +1,5 @@
 import './index.css'
-import '../fonts/fonts.css'; // Import the fonts.css file here
+import '../fonts/fonts.css';
 
 import Intro from './components/Intro'
 import Header from './components/Header'

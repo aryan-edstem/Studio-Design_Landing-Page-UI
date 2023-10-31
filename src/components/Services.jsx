@@ -14,8 +14,8 @@ const Services =() => {
         <div className="flex flex-row mt-28 ml-32 gap-10 relative justify-between">
             <div className="flex flex-col w-[358px] h-[98px] place-self-center relative">
                 <img src={rectangle2} className="w-[178px] h-[178px] absolute -top-14 -left-12 overflow-hidden z-10" />
-                <p className="text-black text-[40px] font-normal leading-normal block relative z-20">How can we help your Business ?</p>
-                <p className="w-96 text-gray-600 text-base font-normal leading-7 z-20 relative">We build readymade websites, mobile applications, and elaborate online business services.</p>
+                <p className="text-black text-[40px] font-normal font-averta leading-normal block relative z-20">How can we help your Business ?</p>
+                <p className="w-96 text-gray-600 text-base font-normal font-averta leading-7 z-20 relative">We build readymade websites, mobile applications, and elaborate online business services.</p>
                 <img src={dot} className="w-48 absolute -bottom-80 -left-9 z-0"/>
                 <img src={dot} className="w-48 absolute -bottom-80  left-40 z-0"/>     
             </div>
